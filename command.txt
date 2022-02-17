@@ -1,0 +1,16 @@
+read article1.txt
+list
+read article2.txt
+list
+completeAll
+list
+read article3.txt
+list
+completeAll
+list
+sortedAll
+list
+read article4.txt
+list
+del 110
+list
